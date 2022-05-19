@@ -1,5 +1,5 @@
 <form action="action_page.php">
-  <h1>Image has created and update on dockerhub</h1>
+  <h1>Image and container created and deleted in dockerhost through ansible-server</h1>
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
